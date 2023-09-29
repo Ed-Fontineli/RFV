@@ -34,8 +34,6 @@ Site app em primeira versão nao carregando alguns arquivos.
 
 ## Autores
 
-Eduardo Fontineli 
-
  [@EduardoFonteneli](https://www.linkedin.com/in/carlos-eduardo-fontineli-goncalves/)
 
 ## Histórico de versões.
